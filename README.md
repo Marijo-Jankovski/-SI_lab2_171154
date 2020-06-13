@@ -6,8 +6,10 @@
 ![Control flow graph](https://user-images.githubusercontent.com/62189384/84566048-47277f00-ad6e-11ea-8249-a548f971d465.png)
 <h3>Цикломатска комплексност</h3>
 <p>Цикломатската комплексност на овој код е 8, а ги најдов преку бројот на региони во графот.</p>
-<h3>Тест случаи според критериумот Every statement</h3>
+<h3>Тест случаи според критериумот Multiple Conditions</h3>
 
 <h3>Тест случаи според критериумот Every path</h3>
+![Every Path](https://user-images.githubusercontent.com/62189384/84566142-43482c80-ad6f-11ea-893e-89aade8bf970.png)
+
 
 <h3>Објаснување на напишаните unit tests</h3>
