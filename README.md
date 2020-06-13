@@ -3,4 +3,4 @@
 <h3>Група на код:</h3>
 <p>Ја добив групата на код 1</p>
 <h3>Control Flow Graph</h3>
-![Control Flow Graph](https://user-images.githubusercontent.com/62189384/84564672-a6cc5d00-ad63-11ea-9f3f-be6b1e11d4ad.jpg)
+![Control flow graph](https://user-images.githubusercontent.com/62189384/84564738-4984db80-ad64-11ea-9d6a-57567b0e3ecb.png)
